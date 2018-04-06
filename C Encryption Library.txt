@@ -1,0 +1,36 @@
+C Library Project
+
+Jackson Braswell
+Tremayne Clarkson Jr
+
+List of items needed
+
+
+CMAKE
+
+.gitignore -- testing stuff
+
+GCC 7.3
+
+?Coding Guideline
+
+Types:
+	generic
+	binary
+
+Encryption Algorithms:
+	Triple DES
+	RSA
+	Blowfish
+	Twofish
+	AES
+
+	**(Possible/Maybe) Quantum Computing
+
+Network
+	diffie hellman
+
+
+ORDER
+	Types
+	Algorithms
