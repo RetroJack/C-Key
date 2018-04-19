@@ -2,6 +2,7 @@ C Library Project
 
 Jackson Braswell
 Tremayne Clarkson Jr
+Sean -------
 
 List of items needed
 
